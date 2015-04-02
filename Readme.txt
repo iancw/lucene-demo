@@ -16,3 +16,7 @@ To run the PDF / MS Word demo:
 java -jar examples.jar
 
 This GUI has no map, but has a couple extra buttons.  The index file... button allows you to select any PDF or MS Word document to add to the index.  Those files can then be searched using the search bar.  The 'Show index terms' button dumps the contents of the Lucene index to the results display area.  The 'Explain results' checkbox causes query results to include Lucene's score explanation. 
+
+Building
+
+It's been three years since I wrote this code and I'm embarassed to see there's no build instructions.  I must have let eclipse build things into the bin directory (or compiled by hand), then manually built example.jar by hand using the included Manifest.txt to get the classpath right.  Sorry about that!
