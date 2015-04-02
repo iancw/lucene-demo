@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lucene-core-3.6.0.jar" sourcepath="lucene-src.jar"/>
+	<classpathentry kind="lib" path="pdfbox-1.6.0.jar"/>
+	<classpathentry kind="lib" path="lucene-pdf.jar"/>
+	<classpathentry kind="lib" path="commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="fontbox-1.6.0.jar"/>
+	<classpathentry kind="lib" path="worldwind.jar"/>
+	<classpathentry kind="lib" path="worldwindx.jar"/>
+	<classpathentry kind="lib" path="lucene-highlighter-3.6.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/testing/lucene-highlighter-3.6.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="tika-app-1.1.jar" sourcepath="apache-tika-1.1-src.zip"/>
+	<classpathentry kind="lib" path="lucene-memory-3.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,3 @@
+Main-Class: edu.gwu.text.TextUI
+Class-Path: commons-logging-1.1.1.jar fontbox-1.6.0.jar gdal.jar gluegen-rt.jar jogl.jar lucene-core-3.6.0.jar lucene-highlighter-3.6.0.jar lucene-memory-3.6.0.jar lucene-pdf.jar pdfbox-1.6.0.jar pdfbox-app-1.6.0.jar tika-app-1.1.jar worldwind.jar worldwindx.jar 
+
